@@ -1,3 +1,3 @@
 - Hi, I’m @Vardyawll
 - I’m interested in programming
-- I’m currently learning hot to program sites, etc.
+- I’m currently learning how to program sites, etc.
